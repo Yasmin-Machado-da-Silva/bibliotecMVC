@@ -32,7 +32,7 @@ namespace Bibliotec.Contexts
                     //  Integrated Security=true; TrustServerCertificate = true");
                     // SAMANTA:
                     // optionsBuilder.UseSqlServer("Data Source=DESKTOP-LAO5MIJ\\SQLEXPRESSTEC; Initial Catalog = Bibliotec; User Id=sa; Password=abc123; Integrated Security=true; TrustServerCertificate = true");
-                optionsBuilder.UseSqlServer("Data Source=DESKTOP-LAO5MIJ\\SQLEXPRESSTEC; Initial Catalog = Bibliotec; User Id=sa; Password=abc123; Integrated Security=true; TrustServerCertificate = true");
+                optionsBuilder.UseSqlServer("Data Source=DESKTOP-J3BH255\\SQLEXPRESS00; Initial Catalog = Bibliotec; User Id=sa; Password=123; Integrated Security=true; TrustServerCertificate = true");
 
                 }
         }
